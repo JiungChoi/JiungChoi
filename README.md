@@ -1,5 +1,7 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=38d7ff&text=Welcome%20Small%20Dot%20Big%20Wave%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250&fontColor=ffffff)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=38d7ff&text=Small%20Dot%20Big%20Wave%20&animation=twinkling&fontSize=45&fontAlignY=40&fontAlign=60&height=250&fontColor=ffffff)
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Jiung's+GitHub!👋)](https://git.io/typing-svg)
+ 
+ <a target="_blank" href="https://icons8.com/icon/UC01sKb4gLlw/water-wave">Water Wave</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
  
 ---
 
