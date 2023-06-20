@@ -1,11 +1,13 @@
- ![header](https://capsule-render.vercel.app/api?type=waving&color=38d7ff&text=Small%20Dot%20Big%20Wave%20🌊&animation=twinkling&fontSize=45&fontAlignY=40&fontAlign=30&height=200&fontColor=ffffff)
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=38d7ff&text=Small%20Dot%20Big%20Wave%20&animation=twinkling&fontSize=45&fontAlignY=40&fontAlign=30&height=200&fontColor=ffffff)
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Jiung's+GitHub!👋)](https://git.io/typing-svg)
  
 ---
-
+<div align="center">
 ![JiungChoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiungChoi&show_icons=true&theme=solarized-light)
 
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jiholee0)
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/JiungChoi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6810779s&layout=compact&theme=tokyonight)
+</div>
 
  ---
      
