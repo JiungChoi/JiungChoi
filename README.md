@@ -1,7 +1,6 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=38d7ff&text=Small%20Dot%20Big%20Wave%20&animation=twinkling&fontSize=45&fontAlignY=40&fontAlign=30&height=200&fontColor=ffffff)
  
 
----
 <div align="center">
 <div align="left">
 
